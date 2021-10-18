@@ -1,0 +1,32 @@
+body{
+    background-color: #fcede1;
+}
+
+h1{
+    color: #6b705c;
+    display: flex;
+    justify-content: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    color:#6b705c;
+}
+input{
+    color: #6b705c;
+}
+
+#knapp1{
+background-color: #d6e2e9;
+}
+#knapp2{
+    background-color: #ffd6ba;
+}
+#knapp3{
+    background-color: #cfe1b9;
+}
+ol{
+    text-align: center;
+    list-style-position: inside;
+    color: #6b705c;
+}
